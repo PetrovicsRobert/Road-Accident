@@ -6,7 +6,8 @@ This project aims to provide a comprehensive analysis of road accidents using an
 
 To find the dashboard please navigate to  `PetrovicsRobert/Road-Accident` and click on `Road Accident.xlsx` to open it.
 
-![Road Accident Dashboard] (https://github.com/PetrovicsRobert/Road-Accident/blob/72164a138be2543c54f3b82b956143ae712c9b8c/Road_Accident_Dashboard.png)
+![Road Accident Dashboard](Road_Accident_Dashboard.png)
+
 
 ## Data Cleaning Steps
 
